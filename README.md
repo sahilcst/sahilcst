@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sahil
-- 👀 I’m interested in ...Cricket
-- 🌱 I’m currently learning ...Data Analysis
+ 👋 Hi, I’m @Sahil
+
+- 👀 I’m interested in ...cricket
+- 🌱 I’m currently learning ...Analytics Exploration
 - 💞️ I’m looking to collaborate on ...internship and projects.
-- 📫 How to reach me ...8574907782 Whatsapp
+- 📫 How to reach me ...8574907782 Whatsapp!
 
 <!---
 sahilcst/sahilcst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
