@@ -1,7 +1,7 @@
  👋 Hi, I’m @Sahil
 
 - 👀 I’m interested in ...cricket
-- 🌱 I’m currently exploring ...Analytics 
+- 🌱 I’m currently exploring ...analytics & insights 
 - 💞️ I’m looking to collaborate on ...internship and projects.
 - 📫 How to reach me ...8574907782 Whatsapp!
 
